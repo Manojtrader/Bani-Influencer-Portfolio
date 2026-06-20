@@ -1,0 +1,6 @@
+{
+  "name": "Bani - Influencer Portfolio",
+  "description": "A luxury modern personal brand website for content creator and social media influencer Bani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
